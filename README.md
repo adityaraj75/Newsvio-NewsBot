@@ -11,7 +11,7 @@ Here are the simple steps that you can follow to use a template:
 * OPTIONAL: If you find a file called `actions.py` in your template directory, run this command in a new terminal `rasa run actions`
 * Start talking to the bot in terminal with command `rasa shell` 
 
-###Documentation
+### Documentation
 [Read here](https://rasa.com/docs/rasa-x/)
 
 
