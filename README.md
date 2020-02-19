@@ -1,3 +1,4 @@
+<p aling="center"><img src="https://community.mattermost.com/files/dp6hczjcq3rxzcbaux9c5dmxeo/public?h=UJH-iZ1y2pwbVRjBKFFM5u3TkJbaabTByV2OIkc9cIY"></p>
 # Newsvio-NewsBot
 A bot that provides relevant news articles for users to quickly consume the most relevant content of the day and stay up to date with the relevant news. 
 The bot filters the kind of news the user wants to read and provides a short description of those news in the form of cards. 
