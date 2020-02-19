@@ -14,7 +14,14 @@ Here are the simple steps that you can follow to use a template:
 * Train the bot with command `rasa train`
 * Evaluate the bot in terminal with command `rasa test`
 * OPTIONAL: If you find a file called `actions.py` in your template directory, run this command in a new terminal `rasa run actions`
-* Start talking to the bot in terminal with command `rasa shell` 
+* Start talking to the bot in terminal with command `rasa shell`
+
+### Screenshots
+<p aling="center"><img scr="https://github.com/son-of-AI/Newsvio-NewsBot/blob/master/Screenshot%20from%202020-01-31%2009-59-09.png"></p>
+
+<p aling="center"><img scr="https://github.com/son-of-AI/Newsvio-NewsBot/blob/master/Screenshot%20from%202020-01-31%2000-16-18.png"></p>
+<p aling="center"><img scr="https://github.com/son-of-AI/Newsvio-NewsBot/blob/master/Screenshot%20from%202020-01-31%2000-16-12.png"></p>
+
 
 ### Documentation
 [Read here](https://rasa.com/docs/rasa-x/)
