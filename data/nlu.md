@@ -1,17 +1,17 @@
 ## intent:greet
-- - hi there
-- - hello there
-- - hey
-- - hi
-- - hey bot
-- - good morning
-- - goodmorning
-- - hello
-- - goodevening
-- - goodafternoon
-- - good evening
-- - morning
-- - good afternoon
+- hi there
+- hello there
+- hey
+- hi
+- hey bot
+- good morning
+- goodmorning
+- hello
+- goodevening
+- goodafternoon
+- good evening
+- morning
+- good afternoon
 - hey
 - heyy
 - hi bot
