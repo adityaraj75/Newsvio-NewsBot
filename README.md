@@ -1,5 +1,7 @@
 # Newsvio-NewsBot
 A bot that provides relevant news articles for users to quickly consume the most relevant content of the day and stay up to date with the relevant news. 
+The bot filters the kind of news the user wants to read and provides a short description of those news in the form of cards. 
+If the card piques user’s interest he/she can click on the card for reading more about the issue/topic. 
 ### Installation & Configuration
 Here are the simple steps that you can follow to use a template:
 * Install RASA https://rasa.com/docs/rasa-x/installation-and-setup/ 
