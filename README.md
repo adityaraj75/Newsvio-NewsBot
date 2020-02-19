@@ -17,7 +17,7 @@ Here are the simple steps that you can follow to use a template:
 * Start talking to the bot in terminal with command `rasa shell`
 
 ### Screenshots
-
+<p aling="center"><img src="Screenshot from 2020-01-31 00-16-12.png"></p>
 
 
 ### Documentation
