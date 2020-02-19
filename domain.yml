@@ -1,0 +1,98 @@
+session_config:
+  session_expiration_time: 0.0
+  carry_over_slots_to_new_session: true
+intents:
+- deny
+- greet
+- news_headline
+- my_country_is
+- news_country
+- my_name_is
+- affirm
+- bbc_news
+- news_from_source
+- news_india
+- search_news
+- abc_news
+- goodbye
+- mood_great
+- mood_unhappy
+- news_us
+- news_australia
+- cnn_news
+entities:
+- country
+- name
+slots:
+  country:
+    type: text
+  name:
+    type: text
+  requested_slot:
+    type: unfeaturized
+  topic:
+    type: unfeaturized
+    auto_fill: false
+templates:
+  utter_ask_topic:
+  - text: Please enter a topic to search
+  utter_country:
+  - text: Which country news do you want?
+  utter_goodbye:
+  - text: Talk to you later!
+  - text: Have a good day.
+  - text: Until next time!
+  utter_greet:
+  - buttons:
+    - payload: /news_headline
+      title: News Headline
+    - payload: /news_from_source
+      title: NEWS from Specefic Source
+    - payload: /search_news
+      title: Search News
+    text: please select an option
+  utter_greetbot:
+  - text: Hi this is Newsvio, your personalised bot for news. What should i call you?
+  utter_greetings:
+  - text: Nice to meet you {name}! To know about latest news
+  utter_more_stories:
+  - text: Do you want to check out more stories?
+  utter_newsheadline:
+  - buttons:
+    - payload: /news_us
+      title: News Headline US
+    - payload: /news_india
+      title: News Headline India
+    - payload: /news_australia
+      title: News Headline Australia
+    - payload: /news_country
+      title: Other country...
+    text: Please select an option from below
+  utter_newssource:
+  - buttons:
+    - payload: /bbc_news
+      title: BBC NEWS
+    - payload: /abc_news
+      title: ABC NEWS
+    - payload: /cnn_news
+      title: CNN NEWS
+    text: Please select an source from below
+actions:
+- action_news_abc
+- action_news_bbc
+- action_news_cnn
+- action_news_country
+- action_news_headline_au
+- action_news_headline_india
+- action_news_headline_us
+- action_news_search
+- utter_country
+- utter_goodbye
+- utter_greet
+- utter_greetbot
+- utter_greetings
+- utter_more_stories
+- utter_newsheadline
+- utter_newssource
+forms:
+- search_form
