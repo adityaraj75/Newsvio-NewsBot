@@ -17,10 +17,7 @@ Here are the simple steps that you can follow to use a template:
 * Start talking to the bot in terminal with command `rasa shell`
 
 ### Screenshots
-<p aling="center"><img scr="https://github.com/son-of-AI/Newsvio-NewsBot/blob/master/Screenshot%20from%202020-01-31%2009-59-09.png"></p>
 
-<p aling="center"><img scr="https://github.com/son-of-AI/Newsvio-NewsBot/blob/master/Screenshot%20from%202020-01-31%2000-16-18.png"></p>
-<p aling="center"><img scr="https://github.com/son-of-AI/Newsvio-NewsBot/blob/master/Screenshot%20from%202020-01-31%2000-16-12.png"></p>
 
 
 ### Documentation
