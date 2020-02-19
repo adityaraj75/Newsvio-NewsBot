@@ -6,7 +6,7 @@ The bot filters the kind of news the user wants to read and provides a short des
 If the card piques user’s interest he/she can click on the card for reading more about the issue/topic. 
 
 ### Installation & Configuration
-Here are the simple steps that you can follow to use a template:
+Here are the simple steps that you can follow to use the chatbot:
 * Install RASA https://rasa.com/docs/rasa-x/installation-and-setup/ 
 * Create a `project_directory` for your project
 * initialize RASA within your `project_directory` by running command `rasa init` 
